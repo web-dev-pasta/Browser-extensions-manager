@@ -175,7 +175,7 @@ p.btn.enter {
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   gap: 10px;
   margin-bottom: 40px;
-  grid-template-rows: 200px;
+  grid-auto-rows: 200px;
 }
 .extensions .container .box {
   background-color: var(--neutral-700);
